@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,9 +11,26 @@
     <link rel="stylesheet" href="styles/style.css">
 
 
-    <title>Projekto pavadinimas</title>
+    <title>3 grupės projektas</title>
 </head>
 
 <body>
 
     <!-- Čia pasikartojanti visuose puslapiuose viršutinė dalis -->
+
+    <ul id="dropdown1" class="dropdown-content">
+        <li><a href="#!">Karolis</a></li>
+        <li><a href="#!">Romanas</a></li>
+        <li><a href="#!">Vaidotas</a></li>
+    </ul>
+    <nav>
+        <div class="nav-wrapper">
+            <a href="#!" class="brand-logo">3 grupės projektas</a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="index.php">Home</a></li>
+                <li><a href="news.php">News</a></li>
+                <!-- Dropdown Trigger -->
+                <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">About us<i class="material-icons right">arrow_drop_down</i></a></li>
+            </ul>
+        </div>
+    </nav>

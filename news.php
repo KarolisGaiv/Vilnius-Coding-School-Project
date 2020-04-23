@@ -1,7 +1,6 @@
-
 <?php include "header.php" ?>
 
-<h1>Pagrindinis puslapis</h1>
+<h2>News puslapis</h2>
   <!-- Čia pagrindinio puslapio vidinė dalis -->
 
 
