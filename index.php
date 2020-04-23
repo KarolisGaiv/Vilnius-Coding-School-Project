@@ -7,9 +7,17 @@
     </div>
   </div>
 </nav>
-
-<h1>Pagrindinis puslapis :)</h1>
 <!-- Čia pagrindinio puslapio vidinė dalis -->
+
+<div class="container">
+  <h1>Pagrindinis puslapis :)</h1>
+</div>
+
+
+
+
+
+
 
 
 <?php include "footer.php" ?>
