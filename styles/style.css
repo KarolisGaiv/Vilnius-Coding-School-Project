@@ -1,12 +1,11 @@
 /* Bendras stilius: */
 
-
 /* Karolis stiliaus kodas: */
 
 .homeTop {
     background-image: url(https://picsum.photos/1920/1080);
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 100px;
+    padding-bottom: 100px;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -21,9 +20,12 @@
     background-color: rgba(169, 169, 169, 0.29);
 }
 
+.homeMiddle {
+    margin-top: 60px;
+    text-align: center;
+}
 
 /* Vaidotas stiliaus kodas: */
-
 
 /* Romanas stiliaus kodas: */
 
