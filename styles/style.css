@@ -1,25 +1,34 @@
 /* Bendras stilius: */
 
 
-
-
-
-/* Vardas1 stiliaus kodas: */
-
-
-
-
-
-/* Vardas2 stiliaus kodas: */
-
-
-
-
-
-/* Vardas3 stiliaus kodas: */
-
-
-
-
-
 /* Karolis stiliaus kodas: */
+.homeTop {
+    background-image: url(https://picsum.photos/1920/1080);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-size: cover;
+    background-position: center;    
+    position: relative;
+}
+.overlayHome {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(169, 169, 169, 0.29);
+}
+
+
+
+
+/* Vaidotas stiliaus kodas: */
+
+
+/* Romanas stiliaus kodas: */
+
+.footerimg {
+    position: absolute;
+    max-width: 100%;
+    width: 50px;
+}

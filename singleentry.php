@@ -3,7 +3,7 @@
 
 
 
-<!-- Čia galerijos puslapio vidinė dalis -->
+<!-- Čia vienos naujienos puslapio vidinė dalis -->
 
 <nav>
     <div class="nav-wrapper">
