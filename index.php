@@ -10,9 +10,8 @@
 <!-- Čia pagrindinio puslapio vidinė dalis -->
 
 <div class="startPage">
-  <div class="homeTop">
-    <div class="overlayHome"></div>
 
+  <div class="homeTop">
     <div class="container">
       <h1>Pagrindinis puslapis :)</h1>
     </div>
