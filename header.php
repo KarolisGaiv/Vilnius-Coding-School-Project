@@ -29,7 +29,10 @@
             <ul class="right hide-on-med-and-down">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="news.php">News</a></li>
-                <!-- Dropdown Trigger -->
+                <li><a href="contacts.php">Contacts</a></li>
+                <li><a href="gallery.php">Gallery</a></li>
+                <li><a href="about.php">About us</a></li>
+                <!-- Dropdown Trigger - kol kas neveikia, nežinau kodėl, bandysiu išsiaiškint -->
                 <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">About us<i class="material-icons right">arrow_drop_down</i></a></li>
             </ul>
         </div>
