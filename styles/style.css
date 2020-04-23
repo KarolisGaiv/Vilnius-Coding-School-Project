@@ -1,25 +1,16 @@
 /* Bendras stilius: */
 
 
+/* Karolis stiliaus kodas: */
 
 
-
-/* Vardas1 stiliaus kodas: */
-
+/* Vaidotas stiliaus kodas: */
 
 
+/* Romanas stiliaus kodas: */
 
-
-/* Vardas2 stiliaus kodas: */
-
-
-
-
-
-/* Vardas3 stiliaus kodas: */
-
-
-
-
-
-/* Vardas4 stiliaus kodas: */
+.footerimg {
+    position: absolute;
+    max-width: 100%;
+    width: 50px;
+}
