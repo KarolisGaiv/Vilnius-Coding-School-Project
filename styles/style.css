@@ -32,11 +32,6 @@
 }
 
 .footerimg {
-    display: inline-block;
     max-width: 100%;
     width: 50px;
-}
-
-.footer-copyright {
-    text-align: left;
 }

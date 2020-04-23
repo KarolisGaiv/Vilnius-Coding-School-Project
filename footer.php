@@ -6,12 +6,10 @@
                     <p class="grey-text text-lighten-4">You can use links to reach us</p>
                 </div>
                 <div class="col s12">
-                    <ul>
-                        <li class="col s1"><a target="blank" href="https://www.facebook.com/"><img class="footerimg" src="images/facebook-circle.png"></a></li>
-                        <li class="col s1"><a target="blank" href="https://twitter.com/"><img class="footerimg" src="images/twitter-circle.png"></a></li>
-                        <li claas="col s1"><a target="blank" href="https://lt.linkedin.com/"><img class="footerimg" src="images/linkedin-circle.png"></a></li>
-                        <li class="col s1"><a target="blank" href="https://www.instagram.com/"><img class="footerimg" src="images/instagram-circle.png"></a></li>
-                    </ul>
+                        <a class="col s3" target="blank" href="https://www.facebook.com/"><img class="footerimg" src="images/facebook-circle.png"></a></li>
+                        <a class="col s3" target="blank" href="https://twitter.com/"><img class="footerimg" src="images/twitter-circle.png"></a></li>
+                        <a class="col s3" target="blank" href="https://lt.linkedin.com/"><img class="footerimg" src="images/linkedin-circle.png"></a></li>
+                        <a class="col s3" target="blank" href="https://www.instagram.com/"><img class="footerimg" src="images/instagram-circle.png"></a></li>
                 </div>
             </div>
         </div>
