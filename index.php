@@ -11,13 +11,18 @@
 
 <div class="startPage">
   <div class="homeTop">
-  <div class="overlayHome"></div>
+    <div class="overlayHome"></div>
 
-<div class="container">
-  <h1>Pagrindinis puslapis :)</h1>
-</div>
+  <div class="container">
+    <h1>Pagrindinis puslapis :)</h1>
+  </div>
 
-</div>
+  <div class="container">
+    <a class="btn" href="contacts.php">Button</a>
+  </div>
+
+
+  </div>
 
 
 
