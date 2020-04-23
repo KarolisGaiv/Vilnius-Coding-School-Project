@@ -11,6 +11,12 @@
 
 <div class="startPage">
 
+<!-- <div class="parallax-container">
+  <div class="parallax">
+    <img src="https://picsum.photos/1920/1080" style="transform: translate3d(-50%,300px, 0px); opacity: 1;">
+  </div>
+</div> -->
+
   <div class="homeTop">
     <div class="container">
       <h1>Pagrindinis puslapis :)</h1>
@@ -49,7 +55,6 @@
   </div>
 
 </div>
-
 
 
 <?php include "footer.php" ?>
