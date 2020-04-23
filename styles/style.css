@@ -1,15 +1,16 @@
 /* Bendras stilius: */
 
-
 /* Karolis stiliaus kodas: */
+
 .homeTop {
     background-image: url(https://picsum.photos/1920/1080);
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 100px;
+    padding-bottom: 100px;
     background-size: cover;
-    background-position: center;    
+    background-position: center;
     position: relative;
 }
+
 .overlayHome {
     width: 100%;
     height: 100%;
@@ -19,7 +20,12 @@
     background-color: rgba(169, 169, 169, 0.29);
 }
 
+.homeMiddle {
+    margin-top: 60px;
+    text-align: center;
+}
 
+<<<<<<< HEAD
 /* Vaidotas stiliaus kodas: */
 
 .main-news {
@@ -47,13 +53,41 @@
 }
 
 
-
+=======
+.introLabels {
+    font-weight: bold;
+    font-size: x-large;
+}
+>>>>>>> 2102667159d2ac4553d6a94becea973d46a1808b
 
 
 /* Romanas stiliaus kodas: */
 
+.social {
+    display: flex;
+    justify-content: center;
+}
+
+.social div {
+    padding: 0px 10px;
+}
+
+.container {
+    text-align: center;
+}
+
 .footerimg {
-    position: absolute;
     max-width: 100%;
     width: 50px;
+}
+
+body {
+    display: flex;
+    /* Cia reiskia visos narsykles lango aukscio */
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
 }
