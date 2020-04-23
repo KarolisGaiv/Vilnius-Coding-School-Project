@@ -4,8 +4,8 @@
 
 .homeTop {
     background-image: url(https://picsum.photos/1920/1080);
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 200px;
+    padding-bottom: 200px;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -25,9 +25,7 @@
     text-align: center;
 }
 
-.imgDesign {
-    max-width: 100%;
-}
+
 
 /* Vaidotas stiliaus kodas: */
 
