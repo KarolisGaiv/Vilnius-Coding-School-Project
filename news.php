@@ -4,11 +4,12 @@
   <div class="nav-wrapper">
     <div class="col s12">
       <a href="index.php" class="breadcrumb">Home</a>
+      <a href="news.php" class="breadcrumb">News</a>
     </div>
   </div>
 </nav>
 
-<h1>Pagrindinis puslapis :)</h1>
+<h2>News puslapis</h2>
 <!-- Čia pagrindinio puslapio vidinė dalis -->
 
 
