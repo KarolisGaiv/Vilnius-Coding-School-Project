@@ -15,7 +15,8 @@
 </head>
 
 <body>
-
+<main>
+    
     <!-- Čia pasikartojanti visuose puslapiuose viršutinė dalis -->
 
     <ul id="dropdown1" class="dropdown-content">
