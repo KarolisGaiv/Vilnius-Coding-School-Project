@@ -34,6 +34,15 @@
 
 /* Romanas stiliaus kodas: */
 
+.social {
+    display: flex;
+    justify-content: center;
+}
+
+.social div {
+    padding: 0px 10px;
+}
+
 .container {
     text-align: center;
 }
@@ -41,4 +50,15 @@
 .footerimg {
     max-width: 100%;
     width: 50px;
+}
+
+body {
+    display: flex;
+    /* Cia reiskia visos narsykles lango aukscio */
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
 }
