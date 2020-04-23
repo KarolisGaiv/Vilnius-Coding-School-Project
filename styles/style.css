@@ -25,13 +25,34 @@
     text-align: center;
 }
 
-.introLabels {
-    font-weight: bold;
-    font-size: x-large;
-}
-
 .imgDesign {
     max-width: 100%;
+}
+
+/* Vaidotas stiliaus kodas: */
+
+.main-news {
+    text-align: center;
+    border: 2px solid black;
+}
+
+.news {
+    position: relative;
+    display: flex;
+    text-align: center;
+    
+}
+
+.news img {
+    width: inherit;
+}
+
+.news div {
+    width: 50%;
+    border-color: black;
+    border-width: 5px;
+    border: 2px solid black;
+    margin: 20px 50px;
 }
 
 /* Vaidotas stiliaus kodas: */
