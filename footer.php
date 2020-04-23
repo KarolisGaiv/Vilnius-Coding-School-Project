@@ -7,10 +7,10 @@
                 </div>
                 <div class="col s12">
                     <ul>
-                        <li><a target="blank" href="https://www.facebook.com/"><img class="footerimg" src="images/facebook-circle.png"></a></li>
-                        <li><a target="blank" href="https://twitter.com/"><img class="footerimg" src="images/twitter-circle.png"></a></li>
-                        <li><a target="blank" href="https://lt.linkedin.com/"><img class="footerimg" src="images/linkedin-circle.png"></a></li>
-                        <li><a target="blank" href="https://www.instagram.com/"><img class="footerimg" src="images/instagram-circle.png"></a></li>
+                        <li class="col s1"><a target="blank" href="https://www.facebook.com/"><img class="footerimg" src="images/facebook-circle.png"></a></li>
+                        <li class="col s1"><a target="blank" href="https://twitter.com/"><img class="footerimg" src="images/twitter-circle.png"></a></li>
+                        <li claas="col s1"><a target="blank" href="https://lt.linkedin.com/"><img class="footerimg" src="images/linkedin-circle.png"></a></li>
+                        <li class="col s1"><a target="blank" href="https://www.instagram.com/"><img class="footerimg" src="images/instagram-circle.png"></a></li>
                     </ul>
                 </div>
             </div>
@@ -18,7 +18,7 @@
         <div class="footer-copyright">
             <div class="container">
                 © 2020 Copyright Text
-                <a class="grey-text text-lighten-4 right" href="https://www.google.com/">More Links</a>
+                <a class="grey-text text-lighten-4 right" target="blank" href="https://www.google.com/">More Links</a>
             </div>
         </div>
     </footer>
