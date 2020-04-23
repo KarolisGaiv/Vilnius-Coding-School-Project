@@ -20,9 +20,34 @@
 }
 
 
-
-
 /* Vaidotas stiliaus kodas: */
+
+.main-news {
+    text-align: center;
+    border: 2px solid black;
+}
+
+.news {
+    position: relative;
+    display: flex;
+    text-align: center;
+    
+}
+
+.news img {
+    width: inherit;
+}
+
+.news div {
+    width: 50%;
+    border-color: black;
+    border-width: 5px;
+    border: 2px solid black;
+    margin: 20px 50px;
+}
+
+
+
 
 
 /* Romanas stiliaus kodas: */
