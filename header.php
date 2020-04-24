@@ -15,26 +15,33 @@
 </head>
 
 <body>
-<main>
-    
-    <!-- Čia pasikartojanti visuose puslapiuose viršutinė dalis -->
+    <main>
 
-    <ul id="dropdown1" class="dropdown-content">
-        <li><a href="#!">Karolis</a></li>
-        <li><a href="#!">Romanas</a></li>
-        <li><a href="#!">Vaidotas</a></li>
-    </ul>
-    <nav>
-        <div class="nav-wrapper container">
-            <a href="#!" class="brand-logo">3 grupės projektas</a>
-            <ul class="right hide-on-med-and-down">
-                <li><a href="index.php">Home</a></li>
-                <li><a href="news.php">News</a></li>
-                <li><a href="contacts.php">Contacts</a></li>
-                <li><a href="gallery.php">Gallery</a></li>
-                <li><a href="singleentry.php">Single entry</a></li>
-                <!-- Dropdown Trigger - kol kas neveikia, nežinau kodėl, bandysiu išsiaiškint -->
-                <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">About us<i class="material-icons right">arrow_drop_down</i></a></li>
-            </ul>
-        </div>
-    </nav>
+        <!-- Čia pasikartojanti visuose puslapiuose viršutinė dalis -->
+
+        <ul id="dropdown1" class="dropdown-content">
+            <li><a href="#!">Karolis</a></li>
+            <li><a href="#!">Romanas</a></li>
+            <li><a href="#!">Vaidotas</a></li>
+        </ul>
+        <nav>
+            <div class="nav-wrapper">
+                <a href="#!" class="brand-logo">3 grupės projektas</a>
+                <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+                <ul class="right hide-on-med-and-down">
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="news.php">News</a></li>
+                    <li><a href="contacts.php">Contacts</a></li>
+                    <li><a href="singleentry.php">Single entry</a></li>
+                    <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">About us<i class="material-icons right">arrow_drop_down</i></a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <ul class="sidenav" id="mobile-demo">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="news.php">News</a></li>
+            <li><a href="contacts.php">Contacts</a></li>
+            <li><a href="singleentry.php">Single entry</a></li>
+            <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">About us<i class="material-icons right">arrow_drop_down</i></a></li>
+        </ul>
