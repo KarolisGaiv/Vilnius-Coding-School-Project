@@ -11,7 +11,18 @@
     </div>
 </nav>
 
-<h2>About us puslapis</h2>
+<div class="row">
+    <div class="col s12">
+      <ul class="tabs">
+        <li class="tab col s2"><a href="#karolis">Karolis</a></li>
+        <li class="tab col s2"><a href="#romanas">Romanas</a></li>
+        <li class="tab col s2"><a href="#vaidotas">Vaidotas</a></li>
+      </ul>
+    </div>
+    <div id="karolis" class="col s12">Karolis Gaivenis</div>
+    <div id="romanas" class="col s12">Romanas Voronovič</div>
+    <div id="vaidotas" class="col s12">Vaidotas Misiūnas</div>
+  </div>
 
 
 
