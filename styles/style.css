@@ -25,41 +25,83 @@
     text-align: center;
 }
 
-<<<<<<< HEAD
 /* Vaidotas stiliaus kodas: */
 
 .main-news {
-    text-align: center;
     border: 2px solid black;
+    padding: 15px 15px;
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.main-news p {
+    text-align: justify;
+}
+
+.main-news img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-news h3 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .news {
     position: relative;
     display: flex;
     text-align: center;
-    
 }
 
-.news img {
+/* .news img {
     width: inherit;
+} */
+
+.article-photo {
+    max-width: 100%;
 }
 
-.news div {
-    width: 50%;
-    border-color: black;
+.news-small {
+    padding: 15px 15px;
     border-width: 5px;
     border: 2px solid black;
     margin: 20px 50px;
+    display: flex;
+    position: relative;
 }
 
+.news-small h3 {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+}
 
-=======
+.img-div {
+    width: 30%;
+    height: 70%;
+    margin-top: auto;
+    margin-bottom: auto;
+    vertical-align: middle;
+}
+
+.news-inside {
+    text-align: left;
+    max-width: 70%;
+
+}
+
+.single-entry {
+    box-sizing: border-box;
+}
+
 .introLabels {
     font-weight: bold;
     font-size: x-large;
 }
->>>>>>> 2102667159d2ac4553d6a94becea973d46a1808b
-
 
 /* Romanas stiliaus kodas: */
 
