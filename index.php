@@ -26,17 +26,6 @@
 
   </div>
 
-  <!-- <div class="homeTop">
-    <div class="container">
-      <h1>Pagrindinis puslapis :)</h1>
-    </div>
-
-    <div class="container">
-      <a class="btn" href="singleentry.php">Button</a>
-    </div>
-
-  </div> -->
-
   <div class="homeMiddle">
     <div class="row">
 
