@@ -26,6 +26,18 @@
 .zAsis {
     z-index: 2;
 }
+
+.zemelapis {
+    border-width: 5px;
+    border: black 2px solid;
+    height: 200px;
+}
+
+.anketa {
+    border-width: 5px;
+    border: black 2px solid;
+    height: 200px;
+}
 /* Vaidotas stiliaus kodas: */
 
 .main-news {

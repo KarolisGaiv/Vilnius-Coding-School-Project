@@ -19,19 +19,19 @@
     <div class="row">
 
       <div class="col s12 m4">
-        <img class="responsive-img" src="https://picsum.photos/300/300" alt="Left Picture">
+        <img class="responsive-img z-depth-3" src="https://picsum.photos/300/300" alt="Left Picture">
         <p class="introLabels">Some text</p>
         <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="contacts.php">Button</a>
         <p class="flow-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, est. Enim similique minus nobis quam placeat? Deserunt quis autem ab et labore, distinctio optio laudantium impedit, velit, dicta aut amet.</p>
       </div>
       <div class="col s12 m4">
-        <img class="responsive-img" src="https://picsum.photos/301/300" alt="Middle Picture">
+        <img class="responsive-img z-depth-3" src="https://picsum.photos/301/300" alt="Middle Picture">
         <p class="introLabels">Some text</p>
         <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="contacts.php">Button</a>
         <p class="flow-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime minima optio quibusdam laudantium? At omnis, enim nesciunt repudiandae necessitatibus reiciendis facilis ea neque obcaecati laborum voluptatibus? Vitae temporibus porro dicta.</p>
       </div>
       <div class="col s12 m4">
-        <img class="responsive-img" src="https://picsum.photos/302/300" alt="Right Picture">
+        <img class="responsive-img z-depth-3" src="https://picsum.photos/302/300" alt="Right Picture">
         <p class="introLabels">Some text</p>
         <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="contacts.php">Button</a>
         <p class="flow-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur sit, eaque suscipit porro consequuntur optio ipsa quam mollitia commodi architecto totam delectus vitae animi dolore iure dignissimos sint debitis! Molestias.</p>
