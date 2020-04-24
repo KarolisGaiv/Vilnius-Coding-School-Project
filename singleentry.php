@@ -4,7 +4,7 @@
 
 <!-- Čia vienos naujienos puslapio vidinė dalis -->
 
-<nav>
+<nav class="light-green">
     <div class="nav-wrapper">
         <div class="col s12">
             <a href="index.php" class="breadcrumb">Home</a>
@@ -30,11 +30,10 @@
                 </div>
                 <div class="news-inside">
                     <h3>Name</h3>
-                    <p class="truncate">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor nobis nemo vel doloremque quae corporis aut, consequuntur assumenda neque cumque dolores delectus hic officiis totam non. Aperiam mollitia quaerat repudiandae.</p>
+                    <p class="truncate">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor nobis nemo vel doloremque quae corporis aut, consequuntur assumenda neque cumque dolores delectus hic officiis totam non. Aperiam mollitia quaerat repudiandae. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet labore cum deserunt odio saepe quam ipsum quaerat, consectetur est adipisci! Eos placeat veniam in accusantium. Dolores aliquam maxime impedit est. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt eveniet rerum ipsa porro, doloribus corporis molestiae repellendus tempore. Ducimus laboriosam placeat quisquam soluta omnis voluptates aliquam neque maiores magnam eos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis dolorem excepturi dolore eum expedita, sint voluptate unde reprehenderit! Possimus amet minus cum aperiam obcaecati, iste saepe consequuntur nam eos eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, itaque eaque omnis laudantium nihil, tenetur accusamus aperiam illo enim atque quo dolorem et qui labore voluptas, aspernatur dolorum velit magnam. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis debitis earum error adipisci eos animi mollitia, accusamus expedita assumenda exercitationem nesciunt vero dolore repellat, quos ipsam? Perferendis impedit rerum nostrum.</p>
                     <a href="singleentry.php">Read more...</a>
                 </div>
         </div>
-
 
         <div class="col s4 offset-2 news-small">
                 <div class="img-div">
@@ -42,7 +41,7 @@
                 </div>
                 <div class="news-inside">
                     <h3>Name</h3>
-                    <p class="truncate">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor nobis nemo vel doloremque quae corporis aut, consequuntur assumenda neque cumque dolores delectus hic officiis totam non. Aperiam mollitia quaerat repudiandae.</p>
+                    <p class="truncate">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor nobis nemo vel doloremque quae corporis aut, consequuntur assumenda neque cumque dolores delectus hic officiis totam non. Aperiam mollitia quaerat repudiandae. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus id iusto minima sed quasi sunt reprehenderit consequuntur, dignissimos saepe dolorem quidem, reiciendis enim ipsum animi autem officia. Iste, culpa quo? Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, praesentium quis? Vel rem fugit, quas tempore velit ea iure omnis, delectus libero adipisci dolores, facilis animi hic saepe sit ipsam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, asperiores, quo distinctio quae, laboriosam dolorum eveniet ut facilis laborum tenetur nisi nam quam ipsa quis quod adipisci nemo magni repellendus! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae, assumenda minus? Aspernatur quaerat suscipit iure adipisci magnam sed, doloremque, placeat hic maiores necessitatibus aliquid minus, tempore in! Mollitia, quidem hic. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia repudiandae deserunt dolores quod, id illum earum ratione placeat commodi, eaque possimus pariatur, deleniti soluta culpa. Numquam deserunt magni culpa cumque!</p>
                     <a href="singleentry.php">Read more...</a>
                 </div>
         </div>

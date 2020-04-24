@@ -48,11 +48,8 @@
     position: relative;
     display: flex;
     text-align: center;
+    justify-content: center;
 }
-
-/* .news img {
-    width: inherit;
-} */
 
 .article-photo {
     max-width: 100%;

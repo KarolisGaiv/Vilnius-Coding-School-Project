@@ -1,5 +1,6 @@
+    </div>
 </main>
-<footer class="page-footer">
+<footer class="page-footer light-green">
     <div class="container">
         <div>
             <h5 class="white-text">Connect with us</h5>
