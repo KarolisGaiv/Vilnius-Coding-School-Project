@@ -25,7 +25,7 @@
         </div>
     </div>
     <div class="footer-copyright">
-        <div class="container">
+        <div id="footercontainerdown" class="container">
             © 2020 All rights reserved
             <a class="grey-text text-lighten-4 right" target="blank" href="https://www.google.com/">More Links</a>
         </div>

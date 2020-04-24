@@ -10,7 +10,7 @@
 </nav>
 
 <div class="container">
-    <div class="container">
+    <div class="container contact">
         <h2>How to reach us?</h2>
         <p class="flow-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit quasi corrupti distinctio, dolor eligendi vel consequatur quas. Velit quibusdam ratione aliquam earum incidunt fuga, quo sed esse alias nulla officiis.</p>
 
