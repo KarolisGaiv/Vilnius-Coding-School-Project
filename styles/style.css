@@ -18,6 +18,13 @@
     font-size: x-large;
 }
 
+.parallax-container .parallax {
+    z-index: 0;
+}
+
+.zAsis {
+    z-index: 2;
+}
 /* Vaidotas stiliaus kodas: */
 
 .main-news {

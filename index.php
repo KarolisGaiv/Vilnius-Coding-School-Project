@@ -9,19 +9,17 @@
 </nav>
 <!-- Čia pagrindinio puslapio vidinė dalis -->
 
-<div class="startPage">
+<div class="container" class="startPage">
 
   <div class="parallax-container">
     <div class="parallax">
       <img src="https://picsum.photos/1920/1080">
     </div>
 
-    <div class="container">
+    <div class="container zAsis">
       <h1>Pagrindinis puslapis :)</h1>
-    </div>
-
-    <div class="container">
       <a class="btn" href="singleentry.php">Button</a>
+
     </div>
 
   </div>
