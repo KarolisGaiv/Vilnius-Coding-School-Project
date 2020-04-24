@@ -52,4 +52,3 @@
             <li><a href="singleentry.php">Single entry</a></li>
             <li><a class="dropdown-trigger" href="#!" data-target="dropdown2">About us<i class="material-icons right">arrow_drop_down</i></a></li>
         </ul>
-        <div class="green lighten-4">
