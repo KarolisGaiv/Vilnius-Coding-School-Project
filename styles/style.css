@@ -2,18 +2,20 @@
 
 /* Karolis stiliaus kodas: */
 
-.homeTop {
-    background-image: url(https://picsum.photos/1920/1080);
-    padding-top: 200px;
-    padding-bottom: 200px;
-    background-size: cover;
-    background-position: center;
-    position: relative;
+.parallax-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .homeMiddle {
     margin-top: 60px;
     text-align: center;
+}
+
+.introLabels {
+    font-weight: bold;
+    font-size: x-large;
 }
 
 /* Vaidotas stiliaus kodas: */
@@ -88,10 +90,6 @@
     box-sizing: border-box;
 }
 
-.introLabels {
-    font-weight: bold;
-    font-size: x-large;
-}
 
 /* Romanas stiliaus kodas: */
 

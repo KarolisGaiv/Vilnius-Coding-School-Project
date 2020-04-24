@@ -11,13 +11,11 @@
 
 <div class="startPage">
 
-<!-- <div class="parallax-container">
-  <div class="parallax">
-    <img src="https://picsum.photos/1920/1080" style="transform: translate3d(-50%,300px, 0px); opacity: 1;">
-  </div>
-</div> -->
+  <div class="parallax-container">
+    <div class="parallax">
+      <img src="https://picsum.photos/1920/1080">
+    </div>
 
-  <div class="homeTop">
     <div class="container">
       <h1>Pagrindinis puslapis :)</h1>
     </div>
@@ -27,6 +25,17 @@
     </div>
 
   </div>
+
+  <!-- <div class="homeTop">
+    <div class="container">
+      <h1>Pagrindinis puslapis :)</h1>
+    </div>
+
+    <div class="container">
+      <a class="btn" href="singleentry.php">Button</a>
+    </div>
+
+  </div> -->
 
   <div class="homeMiddle">
     <div class="row">
@@ -47,7 +56,7 @@
         <img class="responsive-img" src="https://picsum.photos/302/300" alt="Right Picture">
         <p class="introLabels">Some text</p>
         <a class="btn z-depth-5" href="contacts.php">Button</a>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur sit, eaque suscipit porro consequuntur optio ipsa quam mollitia commodi architecto totam delectus vitae animi dolore iure dignissimos sint debitis! Molestias.</p>
+        <p class="flow-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur sit, eaque suscipit porro consequuntur optio ipsa quam mollitia commodi architecto totam delectus vitae animi dolore iure dignissimos sint debitis! Molestias.</p>
       </div>
 
     </div>
