@@ -3,18 +3,41 @@
 
 /* Karolis stiliaus kodas: */
 
-.homeTop {
-    background-image: url(https://picsum.photos/1920/1080);
-    padding-top: 200px;
-    padding-bottom: 200px;
-    background-size: cover;
-    background-position: center;
-    position: relative;
+.parallax-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
 }
 
 .homeMiddle {
     margin-top: 60px;
     text-align: center;
+}
+
+.introLabels {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.parallax-container .parallax {
+    z-index: 0;
+}
+
+.zAsis {
+    z-index: 2;
+}
+
+.zemelapis {
+    border-width: 5px;
+    border: black 2px solid;
+    height: 200px;
+}
+
+.anketa {
+    border-width: 5px;
+    border: black 2px solid;
+    height: 200px;
 }
 
 
@@ -48,12 +71,8 @@
     position: relative;
     display: flex;
     text-align: center;
+    justify-content: center;
 }
-
-
-/* .news img {
-    width: inherit;
-} */
 
 .article-photo {
     max-width: 100%;
@@ -88,11 +107,6 @@
 
 .single-entry {
     box-sizing: border-box;
-}
-
-.introLabels {
-    font-weight: bold;
-    font-size: x-large;
 }
 
 

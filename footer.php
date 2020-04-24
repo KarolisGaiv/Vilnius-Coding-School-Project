@@ -1,6 +1,6 @@
 </main>
-<footer class="page-footer">
-    <div id="footercontainerup" class="container">
+<footer class="page-footer light-green">
+    <div class="container">
         <div>
             <h5 class="white-text">Connect with us</h5>
             <p class="grey-text text-lighten-4">You can use links to reach us</p>

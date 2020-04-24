@@ -1,6 +1,6 @@
 <?php include "header.php" ?>
 
-<nav>
+<nav class="light-green">
   <div class="nav-wrapper">
     <a href="index.php" class="breadcrumb">Home</a>
     <a href="news.php" class="breadcrumb">News</a>
