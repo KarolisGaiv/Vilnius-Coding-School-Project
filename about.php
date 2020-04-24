@@ -2,7 +2,7 @@
 
 <!-- Čia apie puslapio vidinė dalis -->
 
-<nav>
+<nav class="light-green">
     <div class="nav-wrapper">
         <div class="col s12">
             <a href="index.php" class="breadcrumb">Home</a>
@@ -13,7 +13,7 @@
 
 <div class="row">
     <div class="col s12">
-      <ul class="tabs">
+      <ul class="tabs light-green lighten-2">
         <li class="tab col s2"><a href="#karolis">Karolis</a></li>
         <li class="tab col s2"><a href="#romanas">Romanas</a></li>
         <li class="tab col s2"><a href="#vaidotas">Vaidotas</a></li>
