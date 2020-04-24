@@ -146,11 +146,7 @@
     padding: 0px 10px;
 }
 
-#footercontainerup {
-    text-align: center;
-}
-
-#footercontainerdown {
+.page-footer.light-green {
     text-align: center;
 }
 
