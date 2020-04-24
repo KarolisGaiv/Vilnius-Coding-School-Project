@@ -1,6 +1,6 @@
 </main>
 <footer class="page-footer">
-    <div class="container">
+    <div id="footercontainerup" class="container">
         <div>
             <h5 class="white-text">Connect with us</h5>
             <p class="grey-text text-lighten-4">You can use links to reach us</p>
@@ -25,7 +25,7 @@
         </div>
     </div>
     <div class="footer-copyright">
-        <div class="container">
+        <div id="footercontainerdown" class="container">
             © 2020 All rights reserved
             <a class="grey-text text-lighten-4 right" target="blank" href="https://www.google.com/">More Links</a>
         </div>
