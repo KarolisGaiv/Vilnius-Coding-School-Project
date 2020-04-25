@@ -16,7 +16,7 @@
   <li class="collection-item">
     <div class=" row news-block">
       <div class="col l3 m6 s12 news-block-img">
-        <img class="responsive-img" src="https://picsum.photos/500" alt="">
+        <img class="responsive-img materialboxed" src="https://picsum.photos/800" alt="">
       </div>
       <div class="col l7 m12 s12 news-block-text">
         <h5>First interesting article</h5>
@@ -33,7 +33,7 @@
   <li class="collection-item">
     <div class=" row news-block">
       <div class="col l3 m6 s12 news-block-img">
-        <img class="responsive-img" src="https://picsum.photos/800" alt="">
+        <img class="responsive-img materialboxed" src="https://picsum.photos/700" alt="">
       </div>
       <div class="col l7 m12 s12 news-block-text">
         <h5>Second fantastic article</h5>
@@ -50,7 +50,7 @@
   <li class="collection-item">
     <div class=" row news-block">
       <div class="col l3 m6 s12 news-block-img">
-        <img class="responsive-img" src="https://picsum.photos/200" alt="">
+        <img class="responsive-img materialboxed" src="https://picsum.photos/600" alt="">
       </div>
       <div class="col l7 m12 s12 news-block-text">
         <h5>Third impressive article</h5>
