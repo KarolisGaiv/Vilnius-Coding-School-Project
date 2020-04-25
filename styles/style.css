@@ -11,8 +11,11 @@
 }
 
 .homeMiddle {
-    margin-top: 60px;
     text-align: center;
+}
+
+.carousel {
+    min-height:550px;
 }
 
 .introLabels {
@@ -33,9 +36,13 @@
     text-align: center;
 }
 
-.apacia {
-    margin-top: 50px;
+#modal1 {
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
 }
+
+
 
 /* Vaidotas stiliaus kodas: */
 

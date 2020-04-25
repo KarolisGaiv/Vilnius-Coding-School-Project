@@ -15,8 +15,8 @@
 
   </div>
 
-  <div class="homeMiddle">
-    <div class="row">
+  <div class="container homeMiddle">
+    <!-- <div class="row">
 
       <div class="col s12 m4">
         <img class="responsive-img z-depth-3" src="https://picsum.photos/300/300" alt="Left Picture">
@@ -35,6 +35,34 @@
         <p class="introLabels">Some text</p>
         <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="contacts.php">Button</a>
         <p class="flow-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur sit, eaque suscipit porro consequuntur optio ipsa quam mollitia commodi architecto totam delectus vitae animi dolore iure dignissimos sint debitis! Molestias.</p>
+      </div> -->
+
+      <div class="carousel">
+        <div class="carousel-item">
+          <img src="https://picsum.photos/302/300">
+          <p class="introLabels">Some text</p>
+          <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="news.php">Button</a>
+        </div>
+        <div class="carousel-item">
+          <img src="https://picsum.photos/302/300">
+          <p class="introLabels">Some text</p>
+          <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="about.php">Button</a>
+        </div>
+        <div class="carousel-item">
+          <img src="https://picsum.photos/302/300">
+          <p class="introLabels">Some text</p>
+          <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="contacts.php">Button</a>
+        </div>
+        <div class="carousel-item">
+          <img src="https://picsum.photos/302/300">
+          <p class="introLabels">Some text</p>
+          <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="singleentry.php">Button</a>
+        </div>
+        <div class="carousel-item">
+          <img src="https://picsum.photos/302/300">
+          <p class="introLabels">Some text</p>
+          <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="contacts.php">Button</a>
+        </div>
       </div>
 
     </div>

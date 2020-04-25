@@ -16,34 +16,28 @@
 
     </div>
 
+
+<!-- stumti pati zemelapi ir lyguoti su forma -->
+
     <!-- <div class="container">      //Patikrint koks skirtumas su konteineriu ir be -->
-    <div class="row apacia">
-        <div class="col s12 l5">
-            <h5>Cia bus zemelapis</h5>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis libero excepturi iusto provident laboriosam fuga natus, impedit facere corporis, tempore et eligendi incidunt veniam ullam autem, dolores neque ratione! Minima!</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque rem quidem distinctio dicta minima illum neque, dolorum, officia ipsum facere, autem quisquam voluptate eaque doloremque. Impedit excepturi at doloremque sapiente.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi vero saepe iure aut, libero recusandae odio ipsam facilis. In et ut, nihil consectetur nemo eligendi iusto rerum nostrum alias sunt?</p>
+    <div class="row">
+        <div class="col s12 l5 map">
+            <div style="width: 100%"><iframe width="100%" height="400" src="https://maps.google.com/maps?width=100%&amp;height=300&amp;hl=en&amp;q=harare+(My%20Business%20Name)&amp;ie=UTF8&amp;t=&amp;z=6&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/draw-radius-circle-map/">Google Maps radius calculator</a></iframe></div><br />
         </div>
-        <div class="col s12 l5 offset-l2">
-            <form>
 
-                <div class="row">
-                    <div class="input-field col s6">
-                        <i class="material-icons prefix">account_box</i>
-                        <input type="text" id="fName">
-                        <label for="fName">First Name</label>
-                    </div>
-
-                    <div class="input-field col s6">
-                        <input id="lName" type="text">
-                        <label for="lName">Last Name</label>
-                    </div>
-                </div>
+        <div class="col s12 l5 offset-l2 conatctForm">
+            <form action="testpost.php" method="post">
 
                 <div class="input-field">
                     <i class="material-icons prefix">email</i>
-                    <input type="email" id="email">
+                    <input type="email" id="email" name="email">
                     <label for="email">Your Email</label>
+                </div>
+
+                <div class="input-field">
+                    <i class="material-icons prefix">account_box</i>
+                    <input type="text" id="fName" name="fName">
+                    <label for="fName">Your Name</label>
                 </div>
 
                 <div class="input-field">
@@ -53,16 +47,31 @@
                 </div>
 
                 <div class="input-field">
-                    <i class="material-icons prefix">date_range</i>
-                    <input type="text" id="date" class="datepicker">
+                    <!-- <i class="material-icons prefix">date_range</i> -->
+                    <input type="text" id="date" class="datepicker" name="date">
                     <label for="date">Choose date when you need us</label>
                 </div>
+
+                <button class="btn waves-effect waves-light col s12 modal-trigger" type="submit" name="action" href="#modal1">Submit
+                </button>
+
+                <!-- <div class="modal blue lighten-4" id="modal1">
+                    <div class="modal-content">
+                        <h6>We will contact you soon!</h6>
+                    </div>
+                </div> -->
+
             </form>
         </div>
     </div>
     <!-- </div> -->
 
 
+
 </div>
+
+
+
+
 
 <?php include "footer.php" ?>
