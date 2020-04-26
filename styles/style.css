@@ -43,7 +43,10 @@
 }
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 /* Vaidotas stiliaus kodas: */
 
 .main-news {
@@ -138,6 +141,22 @@
 }
 
 
+/* PERSON */
+
+.person-block-img img {
+    width: 100%;
+    height: 200px;
+    border-radius: 2%;
+}
+
+.person-block {
+    text-align: justify;
+}
+
+
+/* Chart stiliai */
+
+#massPopChart
 /* FOOTERIS */
 
 .social {
@@ -145,9 +164,10 @@
     justify-content: center;
 }
 
-.social div {
+
+/* .social div {
     padding: 0px 10px;
-}
+} */
 
 .page-footer.light-green {
     text-align: center;
