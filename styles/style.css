@@ -37,6 +37,7 @@
     margin-top: 50px;
 }
 
+
 /* Vaidotas stiliaus kodas: */
 
 .main-news {
@@ -131,6 +132,22 @@
 }
 
 
+/* PERSON */
+
+.person-block-img img {
+    width: 100%;
+    height: 200px;
+    border-radius: 2%;
+}
+
+.person-block {
+    text-align: justify;
+}
+
+
+/* Chart stiliai */
+
+#massPopChart
 /* FOOTERIS */
 
 .social {

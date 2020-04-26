@@ -14,7 +14,7 @@
     <h2>First News</h2>
   </li>
   <li class="collection-item">
-    <div class=" row news-block">
+    <div class="row news-block">
       <div class="col l3 m6 s12 news-block-img">
         <img class="responsive-img materialboxed" src="https://picsum.photos/800" alt="">
       </div>
