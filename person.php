@@ -10,7 +10,7 @@
 
 <ul class="collection with-header container">
     <li class="collection-header">
-        <h4>Personal statistics</h4>
+        <h4>Webpage guests statistics</h4>
     </li>
     <li class="collection-item">
         <div class="row person-block">

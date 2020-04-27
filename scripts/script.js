@@ -1,6 +1,6 @@
 // Vaidoto kodas
 
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.dropdown-trigger');
     var instances = M.Dropdown.init(elems);
 
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 // Romano kodas
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.materialboxed');
     var instances = M.Materialbox.init(elems);
 });
@@ -49,7 +49,7 @@ var massPopChart = new Chart(myChartMen, {
     options: {
         title: {
             display: true,
-            text: 'Webpage Guest Gender',
+            text: 'Webpage Guests Gender',
             fontColor: 'black',
             fontSize: 20,
         },
@@ -63,7 +63,7 @@ var massPopChart = new Chart(myChartMen, {
 
 var myChartAge = document.getElementById('myChartAge').getContext('2d');
 var massPopChart = new Chart(myChartAge, {
-    type: 'pie', // Kiti diagramu tipai: bar, horizontalBar,line, doughnut, radar, polarArea
+    type: 'pie',
     data: {
         labels: ['<18', '<40', '<60'],
         datasets: [{
@@ -79,7 +79,7 @@ var massPopChart = new Chart(myChartAge, {
     options: {
         title: {
             display: true,
-            text: 'Webpage Guest Age',
+            text: 'Webpage Guests Age',
             fontColor: 'black',
             fontSize: 20,
         },
@@ -93,7 +93,7 @@ var massPopChart = new Chart(myChartAge, {
 
 var myChartInterests = document.getElementById('myChartInterests').getContext('2d');
 var massPopChart = new Chart(myChartInterests, {
-    type: 'pie', // Kiti diagramu tipai: bar, horizontalBar,line, doughnut, radar, polarArea
+    type: 'pie',
     data: {
         labels: ['Engineer', 'IT', 'Photography', 'Web Development', 'Data Analysis'],
         datasets: [{
@@ -109,7 +109,7 @@ var massPopChart = new Chart(myChartInterests, {
     options: {
         title: {
             display: true,
-            text: 'Webpage Guest Interests',
+            text: 'Webpage Guests Interests',
             fontColor: 'black',
             fontSize: 20,
         },
@@ -124,7 +124,7 @@ var massPopChart = new Chart(myChartInterests, {
 //CHARTS BARS
 var myChartBarsMen = document.getElementById('myChartBarsMen').getContext('2d');
 var barChart = new Chart(myChartBarsMen, {
-    type: 'bar', // Kiti diagramu tipai: bar, horizontalBar,line, doughnut, radar, polarArea
+    type: 'bar',
     data: {
         labels: ['Men', 'Women'],
         datasets: [{
@@ -141,7 +141,7 @@ var barChart = new Chart(myChartBarsMen, {
     options: {
         title: {
             display: true,
-            text: 'Webpage Guest Gender',
+            text: 'Webpage Guests Gender',
             fontColor: 'black',
             fontSize: 20,
         },
@@ -164,7 +164,7 @@ var barChart = new Chart(myChartBarsMen, {
 
 var myChartBarsAge = document.getElementById('myChartBarsAge').getContext('2d');
 var barChart = new Chart(myChartBarsAge, {
-    type: 'bar', // Kiti diagramu tipai: bar, horizontalBar,line, doughnut, radar, polarArea
+    type: 'bar',
     data: {
         labels: ['<18', '<40', '<60'],
         datasets: [{
@@ -181,7 +181,7 @@ var barChart = new Chart(myChartBarsAge, {
     options: {
         title: {
             display: true,
-            text: 'Webpage Guest Age',
+            text: 'Webpage Guests Age',
             fontColor: 'black',
             fontSize: 20,
         },
