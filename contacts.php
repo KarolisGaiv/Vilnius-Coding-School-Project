@@ -21,11 +21,11 @@
         </div>
 
         <div class="col s12 l5 offset-l2 conatctForm">
-            <form action="testpost.php" method="POST">
+            <form action="testpost.php" method="POST" id="contactForm">
 
                 <div class="input-field">
                     <i class="material-icons prefix">email</i>
-                    <input type="email" id="email" name="email">
+                    <input type="email" id="email" name="email" class="validate">
                     <label for="email">Your Email</label>
                 </div>
 
@@ -46,7 +46,7 @@
                     <label for="date">Choose date when you need us</label>
                 </div>
 
-                <button class="btn waves-effect waves-light col s12 modal-trigger" type="submit" name="action" href="#modal1">Submit
+                <button class="btn waves-effect waves-light col s12 modal-trigger" type="submit" name="action">Submit
                 </button>
 
             </form>
@@ -54,8 +54,6 @@
     </div>
 
 </div>
-
-
 
 
 <?php include "footer.php" ?>
