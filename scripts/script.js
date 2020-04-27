@@ -95,15 +95,15 @@ var myChartInterests = document.getElementById('myChartInterests').getContext('2
 var massPopChart = new Chart(myChartInterests, {
     type: 'pie',
     data: {
-        labels: ['Engineer', 'IT', 'Photography', 'Web Development', 'Data Analysis'],
+        labels: ['Engineer', 'IT', 'Photography', 'Web Development', 'Data Analysis', 'Other'],
         datasets: [{
             label: 'Interests',
-            data: [12, 30, 5, 42, 11],
-            backgroundColor: ['#5DADE2', '#F7DC6F', '#AF7AC5', '#E59866', '#CB4335'],
+            data: [12, 30, 5, 42, 10, 1],
+            backgroundColor: ['#5DADE2', 'rgba(157,194,85, 0.6)', '#AF7AC5', '#E59866', '#CB4335', '#F7DC6F'],
             borderWidth: 1,
-            borderColor: ['rgba(141,141,141, 0.6)', 'rgba(141,141,141, 0.6)', 'rgba(141,141,141, 0.6)', 'rgba(141,141,141, 0.6)', 'rgba(141,141,141, 0.6)'],
+            borderColor: ['rgba(141,141,141, 0.6)', 'rgba(141,141,141, 0.6)', 'rgba(141,141,141, 0.6)', 'rgba(141,141,141, 0.6)', 'rgba(141,141,141, 0.6)', 'rgba(141,141,141, 0.6)'],
             hoverBorderWidth: 3,
-            hoverBorderColor: ['rgba(12,12,12, 0.6)', 'rgba(12,12,12, 0.6)', 'rgba(12,12,12, 0.6)', 'rgba(12,12,12, 0.6)', 'rgba(12,12,12, 0.6)']
+            hoverBorderColor: ['rgba(12,12,12, 0.6)', 'rgba(12,12,12, 0.6)', 'rgba(12,12,12, 0.6)', 'rgba(12,12,12, 0.6)', 'rgba(12,12,12, 0.6)', 'rgba(12,12,12, 0.6)']
         }]
     },
     options: {
