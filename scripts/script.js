@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var instance = M.Tabs.init(el);
 
     var elems = document.querySelectorAll('.parallax');
-    var instances = M.Parallax.init(elems);
+    var instances = M.Parallax.init(elems); 
 
     var elems = document.querySelectorAll('.datepicker');
     var instances = M.Datepicker.init(elems);

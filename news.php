@@ -11,7 +11,7 @@
 
 <ul class="container collection with-header">
   <li class="collection-header">
-    <h2>First News</h2>
+    <h2>News</h2>
   </li>
   <li class="collection-item">
     <div class="row news-block">
