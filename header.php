@@ -40,7 +40,6 @@
                 <ul class="right hide-on-med-and-down">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="news.php">News</a></li>
-                    <li><a href="singleentry.php?n=1">Single entry</a></li>
                     <li><a href="contacts.php">Contacts</a></li>
                     <li><a href="statistics.php">Statistics</a></li>
                     <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">About us<i class="material-icons right">arrow_drop_down</i></a></li>
