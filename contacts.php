@@ -49,12 +49,6 @@
                 <button class="btn waves-effect waves-light col s12 modal-trigger" type="submit" name="action" href="#modal1">Submit
                 </button>
 
-                <!-- <div class="modal blue lighten-4" id="modal1">
-                    <div class="modal-content">
-                        <h6>We will contact you soon!</h6>
-                    </div>
-                </div> -->
-
             </form>
         </div>
     </div>

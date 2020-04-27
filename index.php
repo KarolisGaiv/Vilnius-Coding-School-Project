@@ -9,7 +9,7 @@
 
     <div class="container zAsis">
       <h1>Pagrindinis puslapis :)</h1>
-      <a class="waves-effect waves-light btn-large waves-purple" href="singleentry.php">Button</a>
+      <a class="waves-effect waves-light btn-large waves-purple" href="news.php">Button</a>
 
     </div>
 
