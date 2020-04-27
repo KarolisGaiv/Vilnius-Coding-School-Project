@@ -17,7 +17,8 @@ $email = mysqli_real_escape_string($conn, $_POST['email']);
 $name = mysqli_real_escape_string($conn, $_POST['name']);
 $message = mysqli_real_escape_string($conn, $_POST['message']);
 $date = mysqli_real_escape_string($conn, $_POST['date']);
-$date = date ("Y-m-d");
+$date = date ("Y-m-d", strtotime($date));
+
 
 
 $sql = "INSERT INTO contact_requests (email, name, message, date) VALUES (?, ?, ?, ?)";
