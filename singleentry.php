@@ -108,13 +108,11 @@
             <div class="news-inside">
                 <h3><?php echo $name3; ?></h3>
                 <p class="truncate"><?php echo $text3; ?></p>
-                <a href="singleentry.php?n=<?php echo ($link3)?> ">Read more...</a>
+                <a href="singleentry.php?n=<?php echo ($link3) ?> ">Read more...</a>
             </div>
         </div>
     </div>
 </div>
-
-
 
 
 
