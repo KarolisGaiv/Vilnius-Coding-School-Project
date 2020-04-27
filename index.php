@@ -19,27 +19,27 @@
    
       <div class="carousel">
         <div class="carousel-item">
-          <img src="https://picsum.photos/302/300">
+          <img src="https://picsum.photos/seed/1/300/300">
           <p class="introLabels">Some text</p>
           <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="news.php">Button</a>
         </div>
         <div class="carousel-item">
-          <img src="https://picsum.photos/303/300">
+          <img src="https://picsum.photos/seed/2/300/300">
           <p class="introLabels">Some text</p>
           <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="about.php">Button</a>
         </div>
         <div class="carousel-item">
-          <img src="https://picsum.photos/304/300">
+          <img src="https://picsum.photos/seed/3/300/300">
           <p class="introLabels">Some text</p>
           <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="contacts.php">Button</a>
         </div>
         <div class="carousel-item">
-          <img src="https://picsum.photos/305/300">
+          <img src="https://picsum.photos/seed/4/300/300">
           <p class="introLabels">Some text</p>
           <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="singleentry.php">Button</a>
         </div>
         <div class="carousel-item">
-          <img src="https://picsum.photos/306/300">
+          <img src="https://picsum.photos/seed/5/300/300">
           <p class="introLabels">Some text</p>
           <a class="waves-effect waves-light btn z-depth-5 waves-purple" href="contacts.php">Button</a>
         </div>
